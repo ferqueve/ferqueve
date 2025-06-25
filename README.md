@@ -23,7 +23,7 @@ Soy docente, desarrollador y entusiasta de la tecnología. Me gusta compartir co
 
 ## 📫 Contacto
 
-- 💼 [Mi LinkedIn]([https://www.linkedin.com/in/fernando-quevedo-80847a35/])
+- 💼 [Mi LinkedIn](https://www.linkedin.com/in/fernando-quevedo-80847a35/)
 - ✉️ ferqueve@gmail.com
 - 🌐 [Portafolio](https://ferqueve.github.io) (¡próximamente!)
 
