@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Fernando Quevedo
 
-<!--
-**ferqueve/ferqueve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy docente, desarrollador y entusiasta de la tecnología. Me gusta compartir conocimiento, crear soluciones útiles y colaborar en proyectos educativos y técnicos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+- 🎓 Licenciado en informática
+- 👨‍🏫 Más de 20 años enseñando tecnología
+- 🛠️ Experiencia en desarrollo web, bases de datos, redes, testing, cloud, y automatización
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [USM (UTEC Spaces Manager)](https://github.com/ferqueve/usm) | Sistema para gestión de reservas de salones en UTEC | `Node.js`, `MongoDB`, `Bootstrap` |
+| [Gestor de cuentas](https://github.com/ferqueve/gestor-cuentas) | Aplicación sencilla para gestión financiera | `HTML`, `JS`, `Bootstrap` |
+| [Simulaciones Arduino](https://github.com/ferqueve/arduino-sim) | Proyectos de automatización y domótica | `C++`, `Wokwi` |
+
+---
+
+## 📫 Contacto
+
+- 💼 [Mi LinkedIn]([https://www.linkedin.com/in/fernando-quevedo-80847a35/])
+- ✉️ ferqueve@gmail.com
+- 🌐 [Portafolio](https://ferqueve.github.io) (¡próximamente!)
+
+---
+
+> “La enseñanza que deja huella no es la que se hace de cabeza a cabeza, sino de corazón a corazón.” – Howard G. Hendricks
