@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-  <img src="banner.jpg" width="100%" height="200" alt="Banner de Fernando Quevedo" />
+  <img src="banner.jpeg" width="100%" height="200" alt="Banner de Fernando Quevedo" />
   
   <h1>👋 ¡Hola! Soy Fernando Quevedo</h1>
   <p><em>Docente, desarrollador y entusiasta de la tecnología</em></p>
