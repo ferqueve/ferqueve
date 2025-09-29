@@ -35,14 +35,19 @@ Soy licenciado en Informática y docente apasionado con **más de 20 años ense�
 > — Howard G. Hendricks
 
 ---
+<img src="https://img.shields.io/badge/Portfolio-Activo-brightgreen?style=for-the-badge&logo=github" />
 
 ### 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|--------|-------------|------------|
-| [**USM (UTEC Spaces Manager)**](https://github.com/ferqueve/usmfront) | Sistema para gestión de reservas de salones en UTEC | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> |
-| [**Gestor de Cuentas**](https://github.com/ferqueve/gestor-cuentas) | Aplicación sencilla para gestión financiera personal | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> |
-| [**Simulaciones Arduino**](https://github.com/ferqueve/arduino-sim) | Proyectos de automatización y domótica con simulación online | <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Wokwi-4CAF50?style=flat&logo=wokwi&logoColor=white" /> |
+🔹 Algunos proyectos aún están en desarrollo.
+
+| Proyecto | Descripción | Tecnologías | Demo |
+|--------|-------------|------------|------|
+| [**USM (UTEC Spaces Manager)**](https://github.com/ferqueve/usmfront) | Sistema para gestión de reservas de salones en UTEC | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> | [🌐 Ver demo](https://ferqueve.github.io/usmfront/) <br> <img src="https://img.shields.io/badge/Online-brightgreen?style=flat&logo=github" /> |
+| [**Gestor de Cuentas**](https://github.com/ferqueve/gestor-cuentas) | Aplicación sencilla para gestión financiera personal | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> | [🌐 Ver demo](https://ferqueve.github.io/gestor-cuentas/) <br> <img src="https://img.shields.io/badge/Online-brightgreen?style=flat&logo=github" /> |
+| [**PKS Kids**](https://github.com/ferqueve/pks) | Plataforma e-commerce básica para artículos infantiles | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> | [🌐 Ver demo](https://ferqueve.github.io/pks/) <br> <img src="https://img.shields.io/badge/Online-brightgreen?style=flat&logo=github" /> |
+| [**Credihogar**](https://github.com/ferqueve/credihogar) | Plataforma de venta a crédito de artículos para el hogar | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> | [🌐 Ver demo](https://ferqueve.github.io/credihogar/) <br> <img src="https://img.shields.io/badge/Online-brightgreen?style=flat&logo=github" /> |
+| [**Simulaciones Arduino**](https://github.com/ferqueve/arduino-sim) | Proyectos de automatización y domótica con simulación online | <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Wokwi-4CAF50?style=flat&logo=wokwi&logoColor=white" /> | <img src="https://img.shields.io/badge/En%20desarrollo-orange?style=flat&logo=github" /> |
 
 ---
 
