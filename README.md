@@ -23,7 +23,7 @@
 ---
 
 ### 🧠 Sobre mí
-Soy licenciado en Informática y docente apasionado con **más de 20 años enseñando tecnología**. Mi misión es crear soluciones útiles, fomentar el aprendizaje significativo y colaborar en proyectos que combinen educación y desarrollo técnico.
+Soy Analista en TI y docente apasionado con **más de 20 años enseñando tecnología**. Mi misión es crear soluciones útiles, fomentar el aprendizaje significativo y colaborar en proyectos que combinen educación y desarrollo técnico.
 
 🔧 Me especializo en:
 - Desarrollo web y aplicaciones full-stack
