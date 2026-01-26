@@ -10,7 +10,7 @@
 <div align="center">
   <img src="banner.jpeg" width="100%" height="200" alt="Banner de Fernando Quevedo" />
   
-  <h1>👋 ¡Hola! Soy Fernando Quevedo</h1>
+  <h1>Fernando Quevedo</h1>
   <p><em>Docente, desarrollador y entusiasta de la tecnología</em></p>
   
   <p>
